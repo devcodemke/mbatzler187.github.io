@@ -31,7 +31,49 @@ div.container {
 	border-color: #000;
 	border-width: 1px;
 	width: 80%;
-	margin-left: 10%
+	margin-left: auto;
+    margin-right: auto;
+	padding: 10px;
+}
+
+div.hobbybar {
+	background:#B2A772;
+	border: solid;
+	border-color: #000;
+	border-width: 1px;
+}
+
+div.hobbies {
+	width: 15%;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+div.hobbies1 {
+	width: 30%;
+	float: left;
+	margin-right: 5%;
+}
+
+div.hobbies2 {
+	width: 30%;
+	float: left;
+	margin-right: 5%;
+}
+
+div.hobbies3 {
+	width: 30%;
+	float: left;
+}
+
+div.footer {
+	text-align: center;
+	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	color: #031D67;
+}
+
+div.p1 {
+	text-align: center;
 }
 
 #carrie {
